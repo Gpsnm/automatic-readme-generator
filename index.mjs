@@ -82,6 +82,6 @@ ${contributor}
 ## Tests
 ${test}
 ## Questions
-Any questions about this project please send me a message on <a href="https://github.com/${github}">${github}</a> or email me at [$f{email}](mailto:${email})
+Any questions about this project please send me a message on <a href="https://github.com/${github}">${github}</a> or email me at [${email}](mailto:${email})
 `
 await fs.writeFile('README.md', readMe);
