@@ -13,4 +13,4 @@ me myself and irene
 ## Tests
 no tests
 ## Questions
-Any questions about this project please send me a message on https://github.com/gpsnm or email me at [adam-willetts@hotmail.co.uk](mailto:adam-willetts@hotmail.co.uk)
+Any questions about this project please send me a message on href='github.com/gpsnm' or email me at [adam-willetts@hotmail.co.uk](mailto:adam-willetts@hotmail.co.uk)

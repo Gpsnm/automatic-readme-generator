@@ -60,16 +60,6 @@ const {
   },
 ]);
 
-console.log(title,
-  description,
-  installation,
-  usage,
-  license,
-  contributor,
-  test,
-  github,
-  email,)
-
   const readMe = `
   # ${title}
 ## Description
