@@ -69,3 +69,22 @@ console.log(title,
   test,
   github,
   email,)
+
+  const readMe = `
+  # ${title}
+## Description
+${description}
+## Installation
+${installation}
+## How is your project used?
+${usage}
+## license
+${license}
+## Contributors
+${contributor}
+## Tests
+${test}
+## Questions
+Any questions about this project please send me a message on https://github.com/${github} or email me at [${email}](mailto:${email})
+`
+await fs.writeFile('README.md', readMe);
