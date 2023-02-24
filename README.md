@@ -1,16 +1,16 @@
 
-  # read me generator
+  # Read Me Generator
 ## Description
-automatic read me generator 
+In this week lesson we were learning node and installing different packages from npm. This project uses inqurier, fs and promises
 ## Installation
-there is no need to install 
+There is no need to install.
 ## How is your project used?
-my project is used to create automatic read me
+My project is used by opening the index.mjs in the terminal and running it with index.mjs and entering the information that is asked for.
 ## license
 NONE
 ## Contributors
-me myself and irene
+none
 ## Tests
-no tests
+Does not require tests.
 ## Questions
-Any questions about this project please send me a message on href='github.com/gpsnm' or email me at [adam-willetts@hotmail.co.uk](mailto:adam-willetts@hotmail.co.uk)
+Any questions about this project please send me a message on <a href="https://github.com/gpsnm">gpsnm</a> or email me at [adam-willetts@hotmail.co.uk](mailto:adam-willetts@hotmail.co.uk)
