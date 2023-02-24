@@ -1,16 +1,23 @@
 
   # Read Me Generator
 ## Description
-In this week lesson we were learning node and installing different packages from npm. This project uses inqurier, fs and promises
+In this weeks class we have been learning node.js and npm packages, In this project i was tasked with writing a node project that generates Read me file
+## Table Of Contents
+ *[Installation](#Installation)
+ *[Usage](#Usage);
+ *[license](#License)
+ *[Contributor](#Contributor)
+ *[Test](#Test)
+ *[Questions](#Questions)
 ## Installation
-There is no need to install.
+no need to install
 ## How is your project used?
-My project is used by opening the index.mjs in the terminal and running it with index.mjs and entering the information that is asked for.
+its used to create a read me
 ## license
 NONE
 ## Contributors
 none
 ## Tests
-Does not require tests.
+no need for tests
 ## Questions
-Any questions about this project please send me a message on <a href="https://github.com/gpsnm">gpsnm</a> or email me at [adam-willetts@hotmail.co.uk](mailto:adam-willetts@hotmail.co.uk)
+Any questions about this project please send me a message on <a href="https://github.com/"></a> or email me at [$f{email}](mailto:adam-willetts@hotmail.co.uk)
