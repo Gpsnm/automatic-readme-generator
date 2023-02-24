@@ -60,17 +60,18 @@ const {
   },
 ]);
 
-  const readMe = `
+const readMe = `
   # ${title}
 ## Description
 ${description}
 ## Table Of Contents
- *[Installation](#Installation)
- *[Usage](#Usage);
- *[license](#License)
- *[Contributor](#Contributor)
- *[Test](#Test)
- *[Questions](#Questions)
+ * [Installation](#Installation)
+ * [Usage](#Usage)
+ * [license](#License)
+ * [Contributor](#Contributor)
+ * [Test](#Test)
+ * [Questions](#Questions)
+ 
 ## Installation
 ${installation}
 ## How is your project used?
@@ -83,5 +84,5 @@ ${contributor}
 ${test}
 ## Questions
 Any questions about this project please send me a message on <a href="https://github.com/${github}">${github}</a> or email me at [${email}](mailto:${email})
-`
-await fs.writeFile('README.md', readMe);
+`;
+await fs.writeFile("README.md", readMe);
