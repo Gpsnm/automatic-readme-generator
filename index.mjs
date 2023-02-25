@@ -59,7 +59,8 @@ const {
     message: "what is your email address?",
   },
 ]);
-let licenseShield = "![GitHub](https://img.shields.io/github/license/"+github+"?style=for-the-badge)"
+let licenseShield = `![GitHub](https://img.shields.io/github/license/${gitHubUser}/${title}?style=for-the-badge)`
+const gitHubUser = `https://github.com/${github}`
 
 const readMe = `
   # ${title}
@@ -85,6 +86,6 @@ ${contributor}
 ## Tests
 ${test}
 ## Questions
-Any questions about this project please send me a message on <a href="https://github.com/${github}">${github}</a> or email me at [${email}](mailto:${email})
+Any questions about this project please send me a message on <a href="${gitHubUser}">${github}</a> or email me at [${email}](mailto:${email})
 `;
 await fs.writeFile("README.md", readMe);
