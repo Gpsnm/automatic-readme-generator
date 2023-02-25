@@ -2,7 +2,7 @@
   # automatic-readme-generator
   ## ![GitHub](https://img.shields.io/github/license/Gpsnm/automatic-readme-generator?style=for-the-badge)
 ## Description
-In this weeks assigment we were tasked with creating an readme generator using node.js.This assigment allowed me to learn about node.js npm packages and await keyword.
+In this weeks assignment we were tasked with creating a readme generator using node.js. This assignment allowed me to learn about node.js npm packages and await keyword.
 ## Table Of Contents
  * [Installation](#Installation)
  * [Usage](#Usage)
