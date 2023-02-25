@@ -1,8 +1,8 @@
 
   # automatic-readme-generator
-  ## ![GitHub](https://img.shields.io/github/license/https://github.com/gpsnm/automatic-readme-generator?style=for-the-badge)
+  ## ![GitHub](https://img.shields.io/github/license/gpsnm/automatic-readme-generator?style=for-the-badge)
 ## Description
-desc
+descr
 ## Table Of Contents
  * [Installation](#Installation)
  * [Usage](#Usage)
@@ -12,14 +12,14 @@ desc
  * [Questions](#Questions)
  
 ## Installation
-ins
+inst
 ## How is your project used?
 used
 ## license
 APACHE
 ## Contributors
-s
+e
 ## Tests
-s
+e
 ## Questions
-Any questions about this project please send me a message on <a href="https://github.com/gpsnm">gpsnm</a> or email me at [s](mailto:s)
+Any questions about this project please send me a message on <a href="https://github.com/gpsnm">gpsnm</a> or email me at [a](mailto:a)
