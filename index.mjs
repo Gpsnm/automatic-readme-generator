@@ -59,8 +59,9 @@ const {
     message: "what is your email address?",
   },
 ]);
-let licenseShield = `![GitHub](https://img.shields.io/github/license/${gitHubUser}/${title}?style=for-the-badge)`
 const gitHubUser = `https://github.com/${github}`
+const licenseShield = `![GitHub](https://img.shields.io/github/license/${gitHubUser}/${title}?style=for-the-badge)`
+
 
 const readMe = `
   # ${title}
