@@ -2,7 +2,7 @@
   # automatic-readme-generator
   ## ![GitHub](https://img.shields.io/github/license/gpsnm/automatic-readme-generator?style=for-the-badge)
 ## Description
-descr
+in this weeks assigment we were challanged with creating a readme generator
 ## Table Of Contents
  * [Installation](#Installation)
  * [Usage](#Usage)
@@ -12,14 +12,14 @@ descr
  * [Questions](#Questions)
  
 ## Installation
-inst
+there is no need to install 
 ## How is your project used?
-used
+the project is used by running node index.mjs
 ## license
-APACHE
+NONE
 ## Contributors
-e
+none
 ## Tests
-e
+no tests required
 ## Questions
-Any questions about this project please send me a message on <a href="https://github.com/gpsnm">gpsnm</a> or email me at [a](mailto:a)
+Any questions about this project please send me a message on <a href="https://github.com/gpsnm">gpsnm</a> or email me at [adam-willetts@hotmail.co.uk](mailto:adam-willetts@hotmail.co.uk)
